@@ -23,10 +23,10 @@
       "7": "Bueno",
       "8": "Muy bueno",
       "9": "Unicum",
-      "10": "Súper unicum"
+      "10": "Súper Unicum"
     },
     "nations": {
-      "ussr": "URSS",
+      "ussr": "U.R.S.S",
       "germany": "Alemania",
       "usa": "EE. UU.",
       "china": "China",
@@ -323,7 +323,7 @@
           "commands": {
             "$": "comandos",
             "description": "Lista de todos los comandos y sus descripciones",
-            "body": "# Comandos\n\nBlitzkrieg ofrece los siguientes comandos:\n\n"
+            "body": "# Comandos\n\nBlitzKit ofrece los siguientes comandos:\n\n"
           },
           "embeds": {
             "$": "embeds",
@@ -552,7 +552,7 @@
         "subcommands": {
           "blitzkit": {
             "$": "blitzkit",
-            "description": "Hacerle ping a BlitzKit"
+            "description": "Hacerle un ping a BlitzKit"
           },
           "wotb": {
             "$": "wotb",
